@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5c4051f2e4d80e755eeeb154",
+  "owner": "jichangl1",
+  "repo": "page-136687b0d577f3afdeed57fe",
+  "title": "SsCat",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "136687b0d577f3afdeed57fe",
+      "a": "SsCat",
+      "b": "",
+      "entity": "SsCat",
+      "brand": "SsCat",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e30601984c1a16f20c5f5b646d6cb4f65c2ad05de3da6775b072a2bd3b80cb97",
+      "content": {
+        "keyword1": "SsCat",
+        "keyword2": "",
+        "primary_entity": "SsCat",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "SsCat 提供基础版、旗舰版与团队版三档代理订阅，覆盖 3 至 20 台设备，支持流媒体解锁与专线加速。选择适合的套餐，按月或按年支付。",
+          "AI_DESCRIPTION": "SsCat 提供基础版、旗舰版与团队版三档代理订阅，覆盖 3 至 20 台设备，支持流媒体解锁与专线加速。选择适合的套餐，按月或按年支付。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#f4f4f6;--ink:#1a1a1d;--soft:#6b6b72;--line:#dcdce2;--accent:#8a3fff;--accent-soft:#efe7ff;--paper:#ffffff;--dashed:#c3c3cd}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65}\nmain{max-width:880px;margin:0 auto;padding:0 20px}\na{color:var(--accent);text-decoration:none}\nsection{padding:64px 0;border-bottom:1px solid var(--line)}\nh1,h2,h3{line-height:1.2;letter-spacing:-0.01em}\nh1{font-size:clamp(38px,8vw,72px);font-weight:800;margin:0 0 24px}\nh2{font-size:clamp(24px,4vw,34px);font-weight:700;margin:0 0 28px}\nh3{font-size:20px;font-weight:700;margin:0 0 12px}\np{margin:0 0 16px}\nul{margin:0;padding-left:22px}\nli{margin:0 0 10px}\n.meta{color:var(--soft);font-size:14px}\n\n/* hero 全宽色带分层堆叠 */\n.hero-wrap{border-bottom:1px solid var(--line);background:\n    linear-gradient(to bottom, #efe7ff 0%, #efe7ff 38%, #f4f4f6 38%, #f4f4f6 100%);padding:72px 0 48px}\n.hero-wrap main{padding:0 20px}\n.hero-band{background:var(--paper);border:1px solid var(--line);padding:36px;margin-bottom:24px}\n.hero-band + .hero-band{background:var(--accent-soft);border-color:#e0d3ff}\n.tag-row{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:24px}\n.tag{border:1px solid var(--accent);color:var(--accent);font-size:12px;padding:4px 10px;border-radius:999px;letter-spacing:0.04em}\n.lead{font-size:18px;max-width:60ch}\n.hero-jump{display:flex;flex-wrap:wrap;gap:18px;font-size:14px}\n.hero-jump a{border-bottom:1px solid var(--accent);padding-bottom:2px}\n\n/* card 虚线框票据风格 */\n.ticket{border:1.5px dashed var(--dashed);background:var(--paper);padding:32px;margin-bottom:24px;border-radius:2px;position:relative}\n.ticket::before{content:\"\";position:absolute;left:-6px;top:50%;width:12px;height:12px;background:var(--bg);border-radius:50%;transform:translateY(-50%)}\n.ticket::after{content:\"\";position:absolute;right:-6px;top:50%;width:12px;height:12px;background:var(--bg);border-radius:50%;transform:translateY(-50%)}\n.ticket-head{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;flex-wrap:wrap;border-bottom:1px dashed var(--dashed);padding-bottom:18px;margin-bottom:18px}\n.ticket-name{font-size:22px;font-weight:700}\n.ticket-price{font-size:22px;font-weight:800;color:var(--accent)}\n.ticket-price small{display:block;font-size:13px;color:var(--soft);font-weight:400}\n.feat{list-style:none;padding:0;margin:0}\n.feat li{padding-left:28px;position:relative;margin-bottom:10px}\n.feat li::before{content:\"✓\";color:var(--accent);position:absolute;left:0;top:0;font-weight:700}\n.plan-foot{margin-top:18px;padding-top:18px;border-top:1px dashed var(--dashed);display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;font-size:14px;color:var(--soft)}\n.plan-foot a{border:1px solid var(--ink);color:var(--ink);padding:8px 16px;border-radius:2px}\n.plan-featured{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}\n.plan-featured .ticket-name::after{content:\"推荐\";margin-left:10px;font-size:12px;color:#fff;background:var(--accent);padding:2px 8px;border-radius:999px;vertical-align:middle;font-weight:600}\n\n/* inline nav */\n.inline-nav{display:flex;flex-wrap:wrap;gap:18px;font-size:14px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:14px 0;margin:0 0 32px}\n.inline-nav a{color:var(--ink);border-bottom:1px solid var(--ink)}\n\n/* faq details */\ndetails{border:1px solid var(--line);background:var(--paper);padding:18px 22px;margin-bottom:12px;border-radius:2px}\nsummary{cursor:pointer;font-weight:600;font-size:17px}\ndetails[open] summary{color:var(--accent)}\n\n.step{counter-reset:step}\n.step-item{display:flex;gap:16px;margin-bottom:24px}\n.step-num{flex-shrink:0;width:28px;height:28px;background:var(--ink);color:#fff;display:flex;align-items:center;justify-content:center;border-radius:50%;font-size:14px;font-weight:700}\n\nfooter{padding:48px 0 64px;text-align:center;color:var(--soft);font-size:14px}\n</style><div class=\"hero-wrap\">\n  <main>\n    <div class=\"hero-band\">\n      <h1>SsCat</h1>\n      <div class=\"tag-row\">\n        <span class=\"tag\">代理订阅</span>\n        <span class=\"tag\">流媒体解锁</span>\n        <span class=\"tag\">IPLC 专线</span>\n      </div>\n      <p class=\"lead\">三档套餐，从 100GB 基础流量到 1000GB 团队配额，覆盖 3 至 20 台设备同时在线，按月或按年订阅。</p>\n    </div>\n    <div class=\"hero-band\">\n      <div class=\"hero-jump\">\n        <a href=\"#plans\">查看套餐</a>\n        <a href=\"#how\">订阅步骤</a>\n        <a href=\"#client\">客户端说明</a>\n        <a href=\"#faq\">常见问题</a>\n      </div>\n    </div>\n  </main>\n</div>\n\n<section>\n\n<section id=\"plans\">\n  <div class=\"inline-nav\">\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#how\">步骤</a>\n    <a href=\"#client\">客户端</a>\n    <a href=\"#faq\">FAQ</a>\n  </div>\n  <h2>选择套餐</h2>\n\n  <article class=\"ticket\">\n    <div class=\"ticket-head\">\n      <div class=\"ticket-name\">基础版</div>\n      <div class=\"ticket-price\">¥15<small>每月</small></div>\n    </div>\n    <ul class=\"feat\">\n      <li>每月 100GB 流量</li>\n      <li>支持 3 台设备同时在线</li>\n      <li>解锁基础流媒体</li>\n      <li>普通线路节点池</li>\n    </ul>\n    <div class=\"plan-foot\">\n      <span>按年付仅需 ¥150/年</span>\n      <a href=\"#\">订阅基础版</a>\n    </div>\n  </article>\n\n  <article class=\"ticket plan-featured\">\n    <div class=\"ticket-head\">\n      <div class=\"ticket-name\">旗舰版</div>\n      <div class=\"ticket-price\">¥35<small>每月</small></div>\n    </div>\n    <ul class=\"feat\">\n      <li>每月 300GB 流量</li>\n      <li>支持 5 台设备同时在线</li>\n      <li>全节点原生流媒体解锁</li>\n      <li>IPLC 专线游戏加速优化</li>\n      <li>7×24 优先工单支持</li>\n    </ul>\n    <div class=\"plan-foot\">\n      <span>按年付仅需 ¥350/年</span>\n      <a href=\"#\">订阅旗舰版</a>\n    </div>\n  </article>\n\n  <article class=\"ticket\">\n    <div class=\"ticket-head\">\n      <div class=\"ticket-name\">团队版</div>\n      <div class=\"ticket-price\">¥85<small>每月</small></div>\n    </div>\n    <ul class=\"feat\">\n      <li>每月 1000GB 流量</li>\n      <li>支持 20 台设备同时在线</li>\n      <li>VIP 专属高带宽节点</li>\n      <li>支持企业定制路由</li>\n      <li>专属客户经理服务</li>\n    </ul>\n    <div class=\"plan-foot\">\n      <span>按年付仅需 ¥850/年</span>\n      <a href=\"#\">订阅团队版</a>\n    </div>\n  </article>\n</section>\n\n<section id=\"how\">\n  <h2>订阅步骤</h2>\n  <div class=\"step\">\n    <div class=\"step-item\">\n      <div class=\"step-num\">1</div>\n      <div>\n        <h3>选择套餐</h3>\n        <p>对比基础版、旗舰版、团队版的流量、设备数与节点池差异，确定最适合的使用规模。</p>\n      </div>\n    </div>\n    <div class=\"step-item\">\n      <div class=\"step-num\">2</div>\n      <div>\n        <h3>完成支付</h3>\n        <p>按月或按年订阅，按年付对应 ¥150 / ¥350 / ¥850 三档年费，完成后获取订阅链接。</p>\n      </div>\n    </div>\n    <div class=\"step-item\">\n      <div class=\"step-num\">3</div>\n      <div>\n        <h3>导入客户端</h3>\n        <p>将订阅链接导入对应客户端，等待节点列表更新后选择线路连接。</p>\n      </div>\n    </div>\n    <div class=\"step-item\">\n      <div class=\"step-num\">4</div>\n      <div>\n        <h3>开启加速</h3>\n        <p>连接成功后即可使用，流量、到期时间可在账户面板查看，续费沿用原订阅。</p>\n      </div>\n    </div>\n  </div>\n</section>\n\n<section id=\"client\">\n  <h2>客户端说明</h2>\n  <p>SsCat 订阅链接兼容主流代理客户端，请按设备平台选择对应应用。</p>\n  <ul>\n    <li><strong>Windows</strong>：支持常用代理客户端，导入订阅链接后自动更新节点。</li>\n    <li><strong>macOS</strong>：支持常用代理客户端，导入订阅链接后自动更新节点。</li>\n    <li><strong>Android</strong>：在第三方客户端中粘贴订阅链接，完成节点同步。</li>\n    <li><strong>iOS / iPadOS</strong>：使用 App Store 提供的兼容客户端导入订阅。</li>\n    <li><strong>路由器</strong>：支持将订阅链接配置到兼容固件中，实现全家网络覆盖。</li>\n  </ul>\n  <p class=\"meta\">未提供官方客户端下载地址时，请前往应用商店或开源仓库自行获取兼容应用，导入订阅链接即可使用。</p>\n</section>\n\n<section id=\"faq\">\n  <h2>常见问题</h2>\n\n  <details>\n    <summary>三档套餐之间主要区别是什么？</summary>\n    <p>主要区别集中在流量配额、设备数与节点质量：基础版 100GB / 3 台 / 普通节点池；旗舰版 300GB / 5 台 / 全节点解锁并含 IPLC 专线优化；团队版 1000GB / 20 台 / VIP 专属高带宽节点与企业定制路由。</p>\n  </details>\n\n  <details>\n    <summary>按月和按年订阅功能是否一致？</summary>\n    <p>一致。按年订阅仅是价格上的优惠，对应 ¥150 / ¥350 / ¥850 三档年费，套餐功能、流量与设备数与按月方案完全相同。</p>\n  </details>\n\n  <details>\n    <summary>套餐流量用完后如何处理？</summary>\n    <p>流量用尽后连接会暂停，可在账户面板续费或升级套餐。升级后流量配额按新套餐计算，剩余周期不再叠加原套餐流量。</p>\n  </details>\n\n  <details>\n    <summary>设备数超出限制会怎样？</summary>\n    <p>当同时在线设备超过套餐上限时，最新连接的设备会挤掉最早建立的连接。如需长期多设备使用，建议升级至旗舰版或团队版。</p>\n  </details>\n\n  <details>\n    <summary>是否支持退款或试用？</summary>\n    <p>订阅页面未提供试用与退款政策说明，建议先按月订阅确认线路质量，再决定是否按年续费。</p>\n  </details>\n\n  <details>\n    <summary>团队版是否支持企业定制？</summary>\n    <p>团队版含企业定制路由与专属客户经理服务，适合多人协作场景。具体定制需求需通过工单或客户经理对接确认。</p>\n  </details>\n</section>\n\n</section>\n\n<footer>\n  <p>SsCat · 代理订阅服务 · 套餐与功能以订阅页面为准</p>\n</footer>",
+          "hash": "bd1801ee58185f3adeb1541c0f9d30904a96a699fff01b795bfbf6d9342ff02f",
+          "seo": {
+            "title": "SsCat — 代理订阅服务",
+            "keywords": "SsCat,代理订阅,网络加速,IPLC,流媒体解锁,机场",
+            "description": "SsCat 提供基础版、旗舰版与团队版三档代理订阅，覆盖 3 至 20 台设备，支持流媒体解锁与专线加速。选择适合的套餐，按月或按年支付。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "2783",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "u88zx27.cn",
+    "host": "p-f049d3f870.u88zx27.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "14420de0efbc8068037fddb9b4a004e731100de6507225bd7b4f505cd0af080a",
+    "sitemap.xml": "2cdde2539d97320e442e965bbd5c4fcd4d98c16da3d4f0c1b57f48b41d06b9f9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "170bda3ce66db49386683dde73ce31cde35c9f9a97a89875c4b168fd2a8d7050",
+    "robots.txt": "be39852f0e198661c4947cbd079e6c765a34bb216ce27de1a6a2757c1612b3b5",
+    "acd42717e483e7ac036c9a04956433e3.txt": "7543b557a79d847980e8d72f31329c73fbcb6ff2af05fd44733a8daffa311c06"
+  },
+  "revision": "5f1ceb96344fe61f82fa66086692c9985a77640cecdb203eae7646e25f714f10"
+}
